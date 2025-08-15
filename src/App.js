@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with samir & cg 4 & Tanim
+          Learn React with samir & cg 4 & Tanimgi
         </a>
       </header>
     </div>
